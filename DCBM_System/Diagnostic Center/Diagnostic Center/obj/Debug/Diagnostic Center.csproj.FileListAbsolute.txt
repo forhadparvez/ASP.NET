@@ -1,0 +1,363 @@
+D:\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.dll.config
+D:\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.pdb
+D:\Diagnostic Center\Diagnostic Center\bin\Antlr3.Runtime.dll
+D:\Diagnostic Center\Diagnostic Center\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Diagnostic Center\Diagnostic Center\bin\AspNet.ScriptManager.jQuery.dll
+D:\Diagnostic Center\Diagnostic Center\bin\EntityFramework.dll
+D:\Diagnostic Center\Diagnostic Center\bin\EntityFramework.SqlServer.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Google.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Web.Infrastructure.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Newtonsoft.Json.dll
+D:\Diagnostic Center\Diagnostic Center\bin\Owin.dll
+D:\Diagnostic Center\Diagnostic Center\bin\System.Web.Optimization.dll
+D:\Diagnostic Center\Diagnostic Center\bin\System.Web.Providers.dll
+D:\Diagnostic Center\Diagnostic Center\bin\WebGrease.dll
+D:\Diagnostic Center\Diagnostic Center\bin\System.Web.Optimization.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Antlr3.Runtime.pdb
+D:\Diagnostic Center\Diagnostic Center\bin\Newtonsoft.Json.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Diagnostic Center\Diagnostic Center\bin\EntityFramework.xml
+D:\Diagnostic Center\Diagnostic Center\bin\EntityFramework.SqlServer.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Google.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.csprojResolveAssemblyReference.cache
+D:\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.dll
+D:\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.pdb
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.dll.config
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.pdb
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Antlr3.Runtime.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\AspNet.ScriptManager.bootstrap.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\AspNet.ScriptManager.jQuery.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\EntityFramework.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\EntityFramework.SqlServer.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.ScriptManager.WebForms.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Newtonsoft.Json.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Owin.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\System.Web.Optimization.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\System.Web.Providers.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\WebGrease.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\System.Web.Optimization.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Antlr3.Runtime.pdb
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Newtonsoft.Json.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\EntityFramework.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\EntityFramework.SqlServer.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.pdb
+D:\BITM\Diagnostic Center\Diagnostic Center\bin\AjaxControlToolkit.dll
+D:\BITM\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.csprojResolveAssemblyReference.cache
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.dll.config
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.pdb
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\AjaxControlToolkit.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Antlr3.Runtime.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\EntityFramework.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\EntityFramework.SqlServer.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Newtonsoft.Json.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Owin.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\System.Web.Optimization.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\System.Web.Providers.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\WebGrease.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\System.Web.Optimization.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Antlr3.Runtime.pdb
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Newtonsoft.Json.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\EntityFramework.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\EntityFramework.SqlServer.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.csprojResolveAssemblyReference.cache
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.pdb
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Diagnostic Center.dll.config
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Diagnostic Center.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Diagnostic Center.pdb
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\AjaxControlToolkit.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Antlr3.Runtime.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\EntityFramework.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\EntityFramework.SqlServer.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Newtonsoft.Json.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Owin.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\System.Web.Optimization.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\System.Web.Providers.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\WebGrease.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\System.Web.Optimization.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Antlr3.Runtime.pdb
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Newtonsoft.Json.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\EntityFramework.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\EntityFramework.SqlServer.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\obj\Debug\Diagnostic Center.csprojResolveAssemblyReference.cache
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\obj\Debug\Diagnostic Center.dll
+C:\Users\sojal\Desktop\Work-ASP\Diagnostic Center-update\Diagnostic Center\obj\Debug\Diagnostic Center.pdb
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Diagnostic Center.dll.config
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Diagnostic Center.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Diagnostic Center.pdb
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\AjaxControlToolkit.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Antlr3.Runtime.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\AspNet.ScriptManager.bootstrap.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\AspNet.ScriptManager.jQuery.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\EntityFramework.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\EntityFramework.SqlServer.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.ScriptManager.WebForms.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Newtonsoft.Json.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Owin.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\System.Web.Optimization.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\System.Web.Providers.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\WebGrease.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\System.Web.Optimization.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Antlr3.Runtime.pdb
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Newtonsoft.Json.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\EntityFramework.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\EntityFramework.SqlServer.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\Diagnostic Center-update\Diagnostic Center\obj\Debug\Diagnostic Center.csprojResolveAssemblyReference.cache
+D:\BITM\Diagnostic Center-update\Diagnostic Center\obj\Debug\Diagnostic Center.dll
+D:\BITM\Diagnostic Center-update\Diagnostic Center\obj\Debug\Diagnostic Center.pdb
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Diagnostic Center.dll.config
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Diagnostic Center.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Diagnostic Center.pdb
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\AjaxControlToolkit.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Antlr3.Runtime.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\AspNet.ScriptManager.bootstrap.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\AspNet.ScriptManager.jQuery.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\EntityFramework.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\EntityFramework.SqlServer.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.Google.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.ScriptManager.WebForms.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Web.Infrastructure.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Newtonsoft.Json.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Owin.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\System.Web.Optimization.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\System.Web.Providers.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\WebGrease.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\System.Web.Optimization.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Antlr3.Runtime.pdb
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Newtonsoft.Json.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\EntityFramework.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\EntityFramework.SqlServer.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.Google.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\obj\Debug\Diagnostic Center.csprojResolveAssemblyReference.cache
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\obj\Debug\Diagnostic Center.dll
+D:\BITM\Diagnostic Center-update-26-01-2017\Diagnostic Center\obj\Debug\Diagnostic Center.pdb
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.dll.config
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Diagnostic Center.pdb
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\AjaxControlToolkit.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Antlr3.Runtime.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\AspNet.ScriptManager.bootstrap.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\AspNet.ScriptManager.jQuery.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\EntityFramework.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\EntityFramework.SqlServer.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Google.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.ScriptManager.WebForms.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Web.Infrastructure.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Newtonsoft.Json.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Owin.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\System.Web.Optimization.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\System.Web.Providers.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\WebGrease.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\System.Web.Optimization.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Antlr3.Runtime.pdb
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Newtonsoft.Json.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\EntityFramework.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\EntityFramework.SqlServer.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Core.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Facebook.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Cookies.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Google.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.Twitter.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.csprojResolveAssemblyReference.cache
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.dll
+G:\BITM\147046\Project\Presentation_Black Shadow\Diagnostic Center\Diagnostic Center\obj\Debug\Diagnostic Center.pdb
